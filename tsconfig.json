@@ -11,6 +11,7 @@
     "moduleResolution": "bundler",
     "resolveJsonModule": true,
     "isolatedModules": true,
+    "plugins": [{ "name": "next" }],
     "jsx": "preserve",
     "incremental": true,
     "baseUrl": ".",
