@@ -13,7 +13,7 @@ export function Contact() {
           <SectionHeading n="07" label="Contact" />
         </div>
         <h2 id="contact-title" className="mx-auto max-w-4xl text-[clamp(2.4rem,7.5vw,5.2rem)] font-semibold leading-[0.98] tracking-[-0.04em] text-text">
-          Let's build something that ships.
+          Let&apos;s build something that ships.
         </h2>
         <div className="mx-auto mt-8 inline-flex min-h-10 items-center gap-3 rounded-full border border-white/[0.1] bg-white/[0.04] px-4 font-mono text-xs uppercase tracking-[0.12em] text-dim">
           <span className="h-2.5 w-2.5 rounded-full bg-accent" />
